@@ -8,6 +8,28 @@
 - Support Vector Machines (SVM) classification 
 ## CA2
 - Decision trees
+- Random forests
 - KNN 
    - NCA
    - LMNN
+## CA3
+- Neural networks for classification of CIFAR10
+ - Dropout
+ - Padding
+ - Stride
+ - Max-pooling
+ - ReLU
+ - Tanh
+ - Back propagation
+ ## C4
+ - K-means clustering
+ - hierarchical clustering
+ - Logestic regression
+ - Central Limit Theroem
+ - Birthday problem
+ ## CA5
+ - Naive Bayes classifier
+ - Dynamic programming
+ - Policy iteration
+ - Value iteration
+ - Q-learning
