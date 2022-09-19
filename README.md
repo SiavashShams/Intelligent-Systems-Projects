@@ -9,5 +9,5 @@
 ## CA2
 - Decision trees
 - KNN 
-   -NCA
-   -LMNN
+   - NCA
+   - LMNN
