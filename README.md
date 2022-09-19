@@ -7,3 +7,7 @@
 - Simulated annealing
 - Support Vector Machines (SVM) classification 
 ## CA2
+- Decision trees
+- KNN 
+   -NCA
+   -LMNN
