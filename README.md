@@ -21,7 +21,7 @@
  - ReLU
  - Tanh
  - Backpropagation
- ## C4
+ ## CA4
  - K-means clustering
  - hierarchical clustering
  - Logestic regression
