@@ -1,5 +1,5 @@
 # Intelligent Systems Projects
- Subjects of each project
+ Contents of each project
  ----------
 ## CA1 
 - Gradient descent
@@ -20,7 +20,7 @@
  - Max-pooling
  - ReLU
  - Tanh
- - Back propagation
+ - Backpropagation
  ## C4
  - K-means clustering
  - hierarchical clustering
